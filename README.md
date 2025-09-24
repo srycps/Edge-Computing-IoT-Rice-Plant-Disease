@@ -22,6 +22,3 @@
 - Avg Inference Time: **~1743 ms**
 - Memory usage within ESP32-CAM limits
 - Field tested in real paddy plots
-
-## License
-This project is released under the [MIT License](LICENSE).
