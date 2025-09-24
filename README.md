@@ -9,7 +9,7 @@
 - Simple action recommendations for farmers
 
 ## System Overview
-![System Diagram](docs/system-overview.png)
+![System Diagram](/docs/system-overview.png)
 
 ## Getting Started
 1. Flash firmware to ESP32-CAM & Wemos
@@ -22,3 +22,7 @@
 - Avg Inference Time: **~1743 ms**
 - Memory usage within ESP32-CAM limits
 - Field tested in real paddy plots
+
+## Attachment
+![System Final](/docs/final-looks.png)
+![System Deploy](/docs/system-deploy.jpg)
