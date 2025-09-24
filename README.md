@@ -9,7 +9,7 @@
 - Simple action recommendations for farmers
 
 ## System Overview
-![System Diagram](docs/System Overview.png)
+![System Diagram](docs/system-overview.png)
 
 ## Getting Started
 1. Flash firmware to ESP32-CAM & Wemos
